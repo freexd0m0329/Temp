@@ -1,0 +1,233 @@
+{
+  "custom_every": "pause",
+  "custom_time": 1650516688,
+  "dynamic": {
+    "collection": "",
+    "every": "hour",
+    "lastCollec": "night",
+    "time": 1672391512536
+  },
+  "about": {
+    "browser": "chrome",
+    "version": "1.17.1"
+  },
+  "showall": true,
+  "lang": "en",
+  "dark": "system",
+  "favicon": "",
+  "tabtitle": "Home",
+  "greeting": "",
+  "pagegap": 4.5,
+  "pagewidth": 2200,
+  "time": true,
+  "main": true,
+  "usdate": true,
+  "background_blur": 3,
+  "background_bright": 0.49,
+  "background_type": "dynamic",
+  "quicklinks": true,
+  "linkstyle": "large",
+  "linknewtab": false,
+  "linksrow": 16,
+  "linksaqnlbh": {
+    "url": "https://172.16.99.7:9443/#!/home",
+    "_id": "linksaqnlbh",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/portainer.png?raw=true",
+    "order": 8,
+    "title": "Portainer"
+  },
+  "linksdfdhpp": {
+    "url": "https://172.16.99.6/ui",
+    "_id": "linksdfdhpp",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/vcenter.png?raw=true",
+    "order": 7,
+    "title": "VCenter"
+  },
+  "linksnljkrd": {
+    "url": "https://172.16.99.4",
+    "_id": "linksnljkrd",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/synology-dsm.png?raw=true",
+    "order": 6,
+    "title": "DSM"
+  },
+  "linkscedmoq": {
+    "url": "https://172.16.1.254",
+    "_id": "linkscedmoq",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/fortigate.png?raw=true",
+    "order": 5,
+    "title": "FGT"
+  },
+  "linksjfmrhm": {
+    "url": "https://graf.freexd0m.cc",
+    "_id": "linksjfmrhm",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/grafana.png?raw=true",
+    "order": 4,
+    "title": "Grafana"
+  },
+  "linksconidn": {
+    "url": "https://www.windy.com/25.040/121.560?rain,24.426,121.775,9",
+    "_id": "linksconidn",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/windy.png?raw=true",
+    "order": 3,
+    "title": "Windy"
+  },
+  "linksahageo": {
+    "url": "https://calendar.google.com/calendar/u/1/r",
+    "_id": "linksahageo",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/google-calendar.png?raw=true",
+    "order": 2,
+    "title": "Calendar"
+  },
+  "linksrqdgpo": {
+    "url": "https://drive.google.com/drive/u/0/my-drive",
+    "_id": "linksrqdgpo",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/google-drive.png?raw=true",
+    "order": 1,
+    "title": "Drive"
+  },
+  "linksdikdhd": {
+    "url": "https://mail.google.com/mail",
+    "_id": "linksdikdhd",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/gmail.png?raw=true",
+    "order": 0,
+    "title": "Mail"
+  },
+  "textShadow": 0.225,
+  "reviewPopup": "removed",
+  "cssHeight": 99.984375,
+  "css": "",
+  "hide": {
+    "greetings": false,
+    "weatherdesc": false,
+    "weathericon": false
+  },
+  "clock": {
+    "ampm": false,
+    "analog": false,
+    "face": "none",
+    "seconds": true,
+    "style": "round",
+    "timezone": "auto"
+  },
+  "unsplash": {
+    "collection": "",
+    "every": "tabs",
+    "lastCollec": "day",
+    "time": 1692522888920
+  },
+  "weather": {
+    "ccode": "TW",
+    "city": "New Taipei",
+    "fcHigh": 28,
+    "forecast": "never",
+    "lastCall": 1692521440,
+    "lastState": {
+      "description": "light intensity shower rain",
+      "feels_like": 29.09,
+      "icon_id": 520,
+      "sunrise": 1692480602,
+      "sunset": 1692527143,
+      "temp": 27.3,
+      "temp_max": 28.92
+    },
+    "location": [
+      24.151728126562176,
+      120.63429105478043,
+      25.0117,
+      121.4658
+    ],
+    "moreinfo": "none",
+    "provider": "",
+    "temperature": "both",
+    "unit": "metric"
+  },
+  "notes": {
+    "align": "left",
+    "on": false,
+    "opacity": 0.1,
+    "text": "### Double click to edit!  \n\n[ ] Supports Markdown and clickable checkboxes  \n[ ] With keyboard shortcuts, [see documentation](https://bonjourr.fr/docs/overview/#notes)",
+    "width": 40
+  },
+  "searchbar": {
+    "on": false,
+    "opacity": 0.1,
+    "engine": "google",
+    "newtab": false,
+    "placeholder": "",
+    "request": ""
+  },
+  "quotes": {
+    "on": true,
+    "author": false,
+    "frequency": "tabs",
+    "last": 1692522888919,
+    "type": "classic",
+    "userlist": []
+  },
+  "font": {
+    "availWeights": [],
+    "family": "",
+    "size": "20.5",
+    "url": "",
+    "weight": "300"
+  },
+  "move": {
+    "layouts": {
+      "double": {
+        "grid": [
+          [
+            "time",
+            "."
+          ],
+          [
+            "main",
+            "."
+          ],
+          [
+            "quicklinks",
+            "."
+          ]
+        ],
+        "items": {}
+      },
+      "single": {
+        "grid": [
+          [
+            "time"
+          ],
+          [
+            "main"
+          ],
+          [
+            "quicklinks"
+          ],
+          [
+            "quotes"
+          ]
+        ],
+        "items": {}
+      },
+      "triple": {
+        "grid": [
+          [
+            ".",
+            "time",
+            "."
+          ],
+          [
+            ".",
+            "main",
+            "."
+          ],
+          [
+            ".",
+            "quicklinks",
+            "."
+          ]
+        ],
+        "items": {}
+      }
+    },
+    "selection": "single"
+  }
+}
