@@ -1,0 +1,228 @@
+{
+  "about": {
+    "browser": "chrome",
+    "version": "19.2.3"
+  },
+  "showall": true,
+  "lang": "en",
+  "dark": "system",
+  "favicon": "",
+  "tabtitle": "Home",
+  "greeting": "",
+  "pagegap": 1,
+  "pagewidth": 1600,
+  "time": true,
+  "main": true,
+  "dateformat": "eu",
+  "background_blur": 3,
+  "background_bright": 0.49,
+  "background_type": "unsplash",
+  "quicklinks": true,
+  "textShadow": 0.35,
+  "announcements": "major",
+  "review": -1,
+  "css": "",
+  "hide": {
+    "settingsicon": true
+  },
+  "linkstyle": "large",
+  "linknewtab": false,
+  "linksrow": 16,
+  "linksoprkld": {
+    "_id": "linksoprkld",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/chatgpt.jpg?raw=true",
+    "order": 6,
+    "title": "chatgpt",
+    "url": "https://chat.openai.com/",
+    "parent": 0
+  },
+  "linksmghhii": {
+    "_id": "linksmghhii",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/NTUT.png?raw=true",
+    "order": 4,
+    "title": "Portal",
+    "url": "https://nportal.ntut.edu.tw"
+  },
+  "linkslrbmjh": {
+    "_id": "linkslrbmjh",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/ieee.png?raw=true",
+    "order": 7,
+    "title": "IEEE",
+    "url": "https://ieeexplore.ieee.org/Xplore/home.jsp"
+  },
+  "linksjfmrhm": {
+    "_id": "linksjfmrhm",
+    "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/grafana.png",
+    "order": 3,
+    "title": "Grafana",
+    "url": "http://140.124.43.101:3000/"
+  },
+  "linksgjlpli": {
+    "_id": "linksgjlpli",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/github.png?raw=true",
+    "order": 5,
+    "title": "Github",
+    "url": "https://github.com/"
+  },
+  "linkselhoda": {
+    "_id": "linkselhoda",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/nextcloud.png?raw=true",
+    "order": 2,
+    "title": "Drive",
+    "url": "https://drive.freexd0m.cc"
+  },
+  "linksdikdhd": {
+    "_id": "linksdikdhd",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/gmail.png?raw=true",
+    "order": 0,
+    "title": "Mail",
+    "url": "https://mail.google.com/mail/u/1/"
+  },
+  "linksahageo": {
+    "_id": "linksahageo",
+    "icon": "https://github.com/freexd0m0329/Temp/blob/main/Bonjourr/icon/icalendar.png?raw=true",
+    "order": 1,
+    "title": "iCalendar",
+    "url": "https://www.icloud.com/calendar/"
+  },
+  "linktabs": {
+    "active": false,
+    "selected": 0,
+    "titles": [
+      ""
+    ]
+  },
+  "clock": {
+    "ampm": false,
+    "analog": false,
+    "face": "none",
+    "seconds": true,
+    "size": 1,
+    "style": "round",
+    "timezone": "auto"
+  },
+  "unsplash": {
+    "collection": "",
+    "every": "hour",
+    "lastCollec": "day",
+    "pausedImage": null,
+    "time": 1713420002035
+  },
+  "weather": {
+    "ccode": "TW",
+    "city": "Sanxia District",
+    "fcHigh": 24,
+    "fcLast": 1699362000,
+    "forecast": "never",
+    "geolocation": "approximate",
+    "lastCall": 1699358210,
+    "lastState": {
+      "description": "scattered clouds",
+      "feels_like": 22.92,
+      "icon_id": 802,
+      "sunrise": 1699308291,
+      "sunset": 1699348242,
+      "temp": 23.14,
+      "temp_max": 23.92
+    },
+    "moreinfo": "none",
+    "provider": "",
+    "temperature": "both",
+    "unit": "metric"
+  },
+  "notes": {
+    "align": "left",
+    "on": false,
+    "opacity": 0.1,
+    "text": "### Double click to edit!  \n\n[ ] Supports Markdown and clickable checkboxes  \n[ ] With keyboard shortcuts, [see documentation](https://bonjourr.fr/docs/overview/#notes)",
+    "width": 40
+  },
+  "searchbar": {
+    "on": false,
+    "opacity": 0.1,
+    "engine": "google",
+    "newtab": false,
+    "placeholder": "",
+    "request": "",
+    "suggestions": true
+  },
+  "quotes": {
+    "on": true,
+    "author": false,
+    "frequency": "tabs",
+    "last": 1713420015273,
+    "type": "classic",
+    "userlist": ""
+  },
+  "font": {
+    "size": "18",
+    "family": "",
+    "system": false,
+    "weight": "400",
+    "weightlist": []
+  },
+  "move": {
+    "layouts": {
+      "double": {
+        "grid": [
+          [
+            "time",
+            "."
+          ],
+          [
+            "main",
+            "."
+          ],
+          [
+            "quicklinks",
+            "."
+          ]
+        ],
+        "items": {}
+      },
+      "single": {
+        "grid": [
+          [
+            "time"
+          ],
+          [
+            "main"
+          ],
+          [
+            "quicklinks"
+          ],
+          [
+            "quotes"
+          ]
+        ],
+        "items": {}
+      },
+      "triple": {
+        "grid": [
+          [
+            ".",
+            "time",
+            "."
+          ],
+          [
+            ".",
+            "main",
+            "."
+          ],
+          [
+            ".",
+            "quicklinks",
+            "."
+          ],
+          [
+            ".",
+            "quotes",
+            "."
+          ]
+        ],
+        "items": {}
+      }
+    },
+    "selection": "single"
+  }
+}
